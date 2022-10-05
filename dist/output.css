@@ -737,6 +737,10 @@ video {
   height: 8rem;
 }
 
+.h-96 {
+  height: 24rem;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
@@ -905,6 +909,10 @@ video {
 
 .gap-4 {
   gap: 1rem;
+}
+
+.gap-1 {
+  gap: 0.25rem;
 }
 
 .space-y-6 > :not([hidden]) ~ :not([hidden]) {
